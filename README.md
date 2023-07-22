@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 
 
-[LinkedIn]: www.linkedin.com/in/alfonsogswe
+[LinkedIn]: https://www.linkedin.com/in/alfonsogswe
 
