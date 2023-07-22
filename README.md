@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal projects to further enhance my skills and knowledge.
   
-- 🌱 I’m currently learning the implementation of AWS and Google Auth into my projects.
+- 🌱 I’m currently learning the implementation of AWS and Google Auth.
   
 - 💬 Ask me about anything!
 
