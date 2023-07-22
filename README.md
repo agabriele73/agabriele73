@@ -24,5 +24,18 @@ Here are some ideas to get you started:
 </br>
 
 - 📫 How to reach me:
-  - <img align="left" alt=" agabriele | Linkedin" width="22px" src="https://i.imgur.com/LrEPB4j.png"/>[LinkedIn](www.linkedin.com/in/alfonsogswe)
+  - <img align="left" alt=" agabriele | Linkedin" width="22px" src="https://i.imgur.com/LrEPB4j.png"/>[LinkedIn]
+ 
+
+
+
+
+
+
+
+
+
+
+
+[LinkedIn]: www.linkedin.com/in/alfonsogswe
 
