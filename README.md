@@ -29,8 +29,7 @@ Here are some ideas to get you started:
   - <img align="left" alt="agabriele | Gmail" width="22px" src="https://i.imgur.com/NemZud9.png"/> agabrielejr@gmail.com
 
  
- - ###⚡Fun fact:
-   - Besides coding, I enjoy cooking, hiking, gaming, and watching movies, and I can whip up some dishes in the kitchen!
+ - ####⚡Fun fact: Besides coding, I enjoy cooking, hiking, gaming, and watching movies, and I can whip up some dishes in the kitchen!
 
 - ### Language
  
