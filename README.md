@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World, I'm Alfonso 👋
+
+## I'm a creator both at my desk and in the Kitchen! 😄
 
 <!--
 **agabriele73/agabriele73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on polishing up my projects.
+- 🌱 I’m currently learning AWS and Google Auth.
+- 💬 Ask me about anything!
+
+</br>
+
+- 📫 How to reach me:
+  - <img align="left" alt=" agabriele | Linkedin" width="22px" src="https://i.imgur.com/LrEPB4j.png"/>[LinkedIn](www.linkedin.com/in/alfonsogswe)
+
