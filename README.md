@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
  
  - ###⚡Fun fact:
-  - Besides coding, I enjoy cooking, hiking, gaming, and watching movies, and I can whip up some dishes in the kitchen!
+   - Besides coding, I enjoy cooking, hiking, gaming, and watching movies, and I can whip up some dishes in the kitchen!
 
 - ### Language
  
