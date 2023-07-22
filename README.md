@@ -23,15 +23,15 @@ Here are some ideas to get you started:
   
 - #### 💬 Ask me about anything!
 
+- ####⚡Fun fact: Besides coding, I enjoy cooking, hiking, gaming, and watching movies, and I can whip up some dishes in the kitchen!
   
 - ### 📫 How to reach me:
   - <img align="left" alt=" agabriele | Linkedin" width="22px" src="https://i.imgur.com/LrEPB4j.png"/>[LinkedIn]
   - <img align="left" alt="agabriele | Gmail" width="22px" src="https://i.imgur.com/NemZud9.png"/> agabrielejr@gmail.com
 
- 
- - ####⚡Fun fact: Besides coding, I enjoy cooking, hiking, gaming, and watching movies, and I can whip up some dishes in the kitchen!
-
-- ### Language
+ - ### Languages and Tools:
+ - [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+   
  
 
 
