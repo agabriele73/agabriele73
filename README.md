@@ -48,6 +48,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="40" height="40" color="white"/>
 </div>
 
+- 🔥 My Stats:
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?agabriele73)]
 
 
 
