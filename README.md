@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   - <img align="left" alt="agabriele | Gmail" width="22px" src="https://i.imgur.com/NemZud9.png"/> agabrielejr@gmail.com
 
  - ### Languages and Tools:
-    - <div align-text="center">
+     <div align-text="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="40" height="40" color="white"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40" color="white"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlachemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" **alt="SQLAlchemy" width="40" height="40" color="white"/>
     </div>
 
 - 🔥 My Stats:
