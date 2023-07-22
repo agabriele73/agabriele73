@@ -17,19 +17,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on personal projects to further enhance my skills and knowledge.
+- #### 🔭 I’m currently working on personal projects to further enhance my skills and knowledge.
   
-- 🌱 I’m currently learning the implementation of AWS and Google Auth into my projects.
+- #### 🌱 I’m currently learning the implementation of AWS and Google Auth into my projects.
   
-- 💬 Ask me about anything!
+- #### 💬 Ask me about anything!
 
   
-- 📫 How to reach me:
+- ### 📫 How to reach me:
   - <img align="left" alt=" agabriele | Linkedin" width="22px" src="https://i.imgur.com/LrEPB4j.png"/>[LinkedIn]
   - <img align="left" alt="agabriele | Gmail" width="22px" src="https://i.imgur.com/NemZud9.png"/> agabrielejr@gmail.com
 
  
-- ⚡ Fun fact: Besides coding, I enjoy cooking, hiking, gaming, and watching movies, and I can whip up some dishes in the kitchen!
+- ###⚡ Fun fact:
+  - Besides coding, I enjoy cooking, hiking, gaming, and watching movies, and I can whip up some dishes in the kitchen!
+
+- ### Language
  
 
 
