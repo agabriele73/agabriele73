@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
   - <img align="left" alt=" agabriele | Linkedin" width="22px" src="https://i.imgur.com/LrEPB4j.png"/>[LinkedIn]
-  - <img align="left" alt="agabriele | Gmail" width="22px" src="https://i.imgur.com/NemZud9.png"/>[Gmail](mailto:agabrielejr@gmail.com)
+  - <img align="left" alt="agabriele | Gmail" width="22px" src="https://i.imgur.com/NemZud9.png"/> agabrielejr@gmail.com
  
 
 
