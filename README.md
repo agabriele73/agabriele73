@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on polishing up my projects.
-- 🌱 I’m currently learning AWS and Google Auth.
+- 🔭 I’m currently working on personal projects to further enhance my skills and knowledge.
+- 🌱 I’m currently learning the implementation of AWS and Google Auth into my projects.
 - 💬 Ask me about anything!
 
 </br>
