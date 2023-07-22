@@ -1,6 +1,6 @@
 # Hello World, I'm Alfonso 👋
 
-## I'm a creator both at my desk and in the Kitchen! 😄
+## a creator both at my desk and in the Kitchen! 😄
 
 <!--
 **agabriele73/agabriele73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
